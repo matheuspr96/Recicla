@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+li { list-style: none; }
+
+html { font-size: 16px; }
+
+body {
+	background-color: #ECEFF1;
+	font-family: Roboto, Arial, sans-serif;
+	color: #313436;
+}
+.pagina{
+    position: absolute;
+    top: 4rem;
+    left: 0;
+    width: 100%;
+    height: calc(100vh - 4rem);
+    overflow: hidden visible;
+}
+
+.fontper{
+    font-family:"Comic Sans MS", csursive, sans-serif;
+    font-size: 1.3rem;
+}
