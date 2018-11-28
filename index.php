@@ -81,7 +81,10 @@
 	<!-- Navbar -->
 	<nav class="light-green lighten-1">
 		<div class="nav-wrapper container ">
-			<a href="#" class="brand-logo">Logo</a>
+			<img src="./images/logo.png" class="brand-logo" style="max-width:90px; max-height:65px; width: auto; height: auto;">
+			<a class="hide-on-med-and-down" style="font-family: Montserrat, Roboto, Arial, sans-serif; font-size: 1.5rem; padding-left:3rem;">
+				CicloSustentável.com.br
+			</a>
 			<a href="#" data-target="mobile-demo" class="sidenav-trigger right">
 				<i class="material-icons">menu</i>
 			</a>

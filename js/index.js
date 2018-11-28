@@ -38,14 +38,6 @@
         $('#conteudo').load(pagina);	
     });
 
-
-
-
-    
-
-
-
-      
       $('#cadastroUsuario').click(function(){
       // Repetindo a variável pagina, que receberá a página registro.php, ele poderá ser modificado. Mesmo processo acima.
       var pagina = "navegacao/cadastroUsuario.php";	
