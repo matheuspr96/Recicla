@@ -88,24 +88,25 @@
 			<ul class="right hide-on-med-and-down">
 				<li><a id="home" href="#"><i class="material-icons left">home</i>Home</a></li>
 				<li><a id="cadastroUsuario" href="#">Cadastro Usuario</a></li>
-				<li><a id="pontoColeta" href="#"> Ponto Login</a></li>
-				<li><a id="login" href="/login.php">Login</a></li>
+				<li><a id="pontoColeta" href="#"><i class="material-icons left"> location_on </i>Pontos de Coleta</a></li>
+				<li><a id="login" href="#">Login</a></li>
 			</ul>		
 		</div>
-		</nav>
+	</nav>
 			<!-- Navbat Colappsible -->
-			<ul id="mobile-demo" class="sidenav" >
-		<li><a href=""><i class="material-icons left"> home </i>Home</a></li>
-		<li><a href="#">Cadastro Residências</a></li>
-		<li><a href="">Solicitar Coleta</a></li>
-		<li><a href=""><i class="material-icons left"> location_on </i>Pontos de Coleta</a></li>
-	</ul>
+ 			<ul id="mobile-demo" class="sidenav" >
+				<li><a id="home" href="#"><i class="material-icons left"> home </i>Home</a></li>
+				<li><a id="cadastroUsuario" href="#">Cadastro Usuario</a></li>
+				<li><a id="pontoColeta" href="#"><i class="material-icons left"> location_on </i>Pontos de Coleta</a></li>
+				<li><a id="login" href="#">Login</a></li>
+			</ul>
 
 	<!-- Formulário de cadastro de residencia -->
 	<main class="pagina">
 
 		<article class="container" id="conteudo"> 
 			
+
 		</article>
 
 		<footer class="page-footer  light-green lighten-1 ">
@@ -119,9 +120,9 @@
 				<div class="col l4 offset-l2 s12">
 					<h5 class="white-text">Links</h5>
 					<ul>
-					<li><a class="grey-text text-lighten-3" href="#!">Facebook</a></li>
-					<li><a class="grey-text text-lighten-3" href="#!">Instagram</a></li>
-					<li><a class="grey-text text-lighten-3" href="#!">Twitter</a></li>
+				 		<li><a class="grey-text text-lighten-3" href="#!">Facebook</a></li>
+						<li><a class="grey-text text-lighten-3" href="#!">Instagram</a></li>
+						<li><a class="grey-text text-lighten-3" href="#!">Twitter</a></li>
 					</ul>
 				</div>
 				</div>
@@ -130,7 +131,7 @@
 				<div class="container">
 				© 2018 Copyright Text
 				<a class="grey-text text-lighten-4 right" href="https://www.instagram.com/matheuspr96/">Developed with XPimenta</a>
-				</div>
+			</div>
 			</div>
 		</footer>
 
