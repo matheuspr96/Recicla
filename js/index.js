@@ -6,7 +6,9 @@
   // Or with jQuery
 
   $(document).ready(function(){
-    $('.sidenav').sidenav();
+    $('.sidenav').sidenav(); 
+
+    $('#conteudo').load("navegacao/home.php")
 
     $('#home').click(function(){
       // Define a página que vai ser aberta, quando usuario clickar.

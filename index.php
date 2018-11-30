@@ -120,7 +120,10 @@
 				<div class="col l4 offset-l2 s12">
 					<h5 class="white-text">Links</h5>
 					<ul>
-				 		<li><a class="grey-text text-lighten-3" href="#!">Facebook</a></li>
+				 		<li>
+							<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMESURBVFhHYxgFo2AUjBDAJC+v5aGqYTZNXctyLSVYTdNsppyitg8DQygz1GzKgJKSlpyKhul1S8fI94GxTf/DUnspwoFxLf+tnWI/AM28K62kqQq1hjygpGTMr6ph+jA0pftfSunS/5HpE/97BJX89wwu/u8RXEIS9got/w8yA4bD0yb8B4bmExUVA1GodaQDNQ2zHs/g0p8gAz1CSv/7RtYADV+CYhEl2Duy+o+qlulcqHWkA1Uti3tJxQv/+0fV/Q9N6sJqCSU4uWTJf1Ut86dQ60gH6jrWz0EGuQcWYrWAGlhDx/aVlpYWG9RK0oCWrt0zkCFeoWVYDUfHySWL/0dlTAZnhvDUPqxq0LGWnv0rUFqHWkkagDnQJ6IKq+HIODm/9393/+T/hw/v/X/h4vH/Le2d/xMK5mFVi4zp4sAkYMh19kz8//fPOzieu2AhXgeCQji5eBF9HBiZOfn/3n07wA6bOXvB/9yS1v/xaVVgB2BTD8J0dSCoTDsEjFqQA0GOw6YGHftG1f5PKJxPewfGZnb9L6tq/f/gwVWwA6fMmPO/vqXvf2I6asGMjunnwPSm/x/eP4anPRiua+nHqh6G6RbF8bkT/ydlVv6/cvkM2GFbt235n1XY9D8xqw2rehgGmQnKRHRPg4RyLwyPOhAZjzoQFxg2DgQ1EErKav5PnDL9f3JaPrh8w6YOGVPVgZ7Axiq6BZRiiJlLKHOguo4V2IFuAQUYFlCKYWZq6Ni8JLsDpaZpcQMUDaEpPdDmPnbLSMUBsY3/gxPa/ycWLvwP7Ck+hFpHOlBSMcq380j5DDIU1KNzC8j/H501FWgJef2SmOzp/92ArXP/6How38k3+6uKmlkd1DpyQCizqobJGffgkh8gAxOLFoIdCupAYeu5EcKgkEssXAB2nHd45U9VddPLZDf3YUBGxoJTTd18GSgxO3ilf8FmMSnYyTvjq5a+wytgd3aNqJYWD9QayoGSkp6YvLxOoJyCVhpFWFE7WE5OQxJq7CgYBaNgFAwsYGAAAKIZITBXXZqAAAAAAElFTkSuQmCC">
+							<a class="hide-on-med-and-down" style="padding:2px 0 0 2px" href="#!">Facebook</a>						
+						</li>
 						<li><a class="grey-text text-lighten-3" href="#!">Instagram</a></li>
 						<li><a class="grey-text text-lighten-3" href="#!">Twitter</a></li>
 					</ul>
