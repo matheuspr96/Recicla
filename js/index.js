@@ -37,5 +37,20 @@
       var pagina = "navegacao/cadastroUsuario.php";	
         $('#conteudo').load(pagina);
       });
+
+     /* $("#logoAnime").hover(function(){
+        if($(this).attr("src") == "./images/logo-escura.png") 
+        $(this).attr("src","./images/logo-clara.png");
+        else
+        $(this).attr("src","./images/logo-escura.png");
+    }); */
+
   });
+  function mudaIN(){
+    document.getElementById("logo").src ="./images/logo-clara.png";   
+  }
+  function mudaOUT(){
+    document.getElementById("logo").src = "./images/logo-escura.png"
+  }
+  
 

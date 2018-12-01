@@ -12,32 +12,32 @@
   <body>
 
 	<nav class="container-fluid"  style="background-color: #e5fde3;">
-			<nav class="navbar navbar-light navbar-expand-md container" style="background-color: #e5fde3;">
-				<a class="navbar-brand" href="#">
-					<img src="./images/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
-					CicloSustentável.com.br
-				</a>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Alterna navegação">
-					<span class="navbar-toggler-icon"></span>
-				</button>
-				<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-					<ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-						<li class="nav-item active">
-							<a id="home" class="nav-link" href="#">Home <span class="sr-only">(Página atual)</span></a>
-						</li>
-						<li class="nav-item">
-							<a id="cadastroUsuario" class="nav-link" href="#">Cadastro Usuario</a>
-						</li>
-						<li class="nav-item">
-							<a id="pontoColeta" class="nav-link " href="#">Pontos de Coleta</a>
-						</li>
-						<li  class="nav-item">
-							<a id="login" class="nav-link " href="#">Login</a>
-						</li>
-					</ul>
+		<nav class="navbar navbar-light navbar-expand-md container" style="background-color: #e5fde3;" onmouseover="mudaIN();" onmouseout="mudaOUT();">
+			<a id="textologo" class="navbar-brand" href="#">
+				<img id="logo" src="./images/logo-escura.png" width="35" height="35" class="d-inline-block align-top" alt="">
+				Ciclo Sustentável
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Alterna navegação">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse justify-content-center" id="navbarTogglerDemo02">
+				<ul class="navbar-nav justify-content-end">
+					<li class="nav-item active">
+						<a id="home" class="nav-link" href="#">Home <span class="sr-only">(Página atual)</span></a>
+					</li>
+					<li class="nav-item">
+						<a id="cadastroUsuario" class="nav-link" href="#">Cadastro Usuario</a>
+					</li>
+					<li class="nav-item">
+						<a id="pontoColeta" class="nav-link " href="#">Pontos de Coleta</a>
+					</li>
+				</ul>
+				<div  class="nav-item justify-content-end">
+					<a id="login" class="nav-link " href="#">Login</a>
 				</div>
-			</nav>
+			</div>
 		</nav>
+	</nav>
 
 	<main class="pagina">
 

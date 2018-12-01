@@ -1,4 +1,4 @@
-<h2>Home</h2><br>
+<br><br><h2>Home</h2><br>
 <div class="card-deck">
 	<div class="card" style="border-color:#ff9800">
 		<img class="card-img-top" src="images/389604-PCOKC6-31.jpg" >
