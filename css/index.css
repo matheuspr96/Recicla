@@ -22,7 +22,19 @@ body {
     overflow: hidden visible;
 }
 
+.card__image{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
 .fontper{
     font-family:"Comic Sans MS", csursive, sans-serif;
     font-size: 1.3rem;
+}
+
+.footer-ajust, .page-wrap:after{
+    height: 100px; 
+    
 }
