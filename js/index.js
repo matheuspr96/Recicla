@@ -29,8 +29,7 @@
 
     $('#login').click(function(){
       // Define a página que vai ser aberta, quando usuario clickar.
-      $('#modal').modal('show');
-        
+      alert("Login")
     });
 
       $('#cadastroUsuario').click(function(){
