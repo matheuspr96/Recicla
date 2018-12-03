@@ -1,5 +1,6 @@
    $(document).ready(function(){
- 
+
+    
     $('#conteudo').load("navegacao/home.php")
 
     $('#home').click(function(){
@@ -20,16 +21,16 @@
         $('#conteudo').load(pagina);	
     });
 
-    $('#pontoColeta').click(function(){
+    $('#solicitacaoC').click(function(){
       // Define a página que vai ser aberta, quando usuario clickar.
-      var pagina = "navegacao/pontoColeta.php";
+      var pagina = "navegacao/solicitacaoC.php";
         $('#conteudo').load(pagina);	
     });
 
     $('#login').click(function(){
       // Define a página que vai ser aberta, quando usuario clickar.
-      var pagina = "navegacao/login.php";
-        $('#conteudo').load(pagina);	
+      $('#modal').modal('show');
+        
     });
 
       $('#cadastroUsuario').click(function(){
@@ -38,12 +39,13 @@
         $('#conteudo').load(pagina);
       });
 
-     /* $("#logoAnime").hover(function(){
-        if($(this).attr("src") == "./images/logo-escura.png") 
-        $(this).attr("src","./images/logo-clara.png");
-        else
-        $(this).attr("src","./images/logo-escura.png");
-    }); */
+      $('#solicitacaoC').click(function(){
+
+      });
+
+      
+
+      
 
   });
   function mudaIN(){
